@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "taylor_swift_wallpaper_desktop__by_humanchickennugget13_dgw89iw-375w-2x.jpg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
