@@ -12,8 +12,26 @@ while x<=15 {
 var isItAlive = true
 
 while isItAlive == true{
-    print("Hooray! I'm alive")
+   // print("Hooray! I'm alive")
     isItAlive  = false
 }
 
-4    != 3
+var fruits = [
+    "Banana"
+    ,"Apple",
+    "Strawberry"
+]
+
+for x in fruits{
+    print(x)
+}
+
+let liste = [20,30,50]
+
+for m in liste{
+    print(m/5)
+}
+print("xxxxxxxx")
+for x in 1..<10{
+    print(x)
+}
